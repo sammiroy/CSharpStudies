@@ -1,0 +1,15 @@
+C:\Users\sroy33\source\repos\CSharpIntroCode\CSharpIntroCodeProject\bin\Debug\net6.0\CSharpIntroCodeProject.exe
+C:\Users\sroy33\source\repos\CSharpIntroCode\CSharpIntroCodeProject\bin\Debug\net6.0\CSharpIntroCodeProject.deps.json
+C:\Users\sroy33\source\repos\CSharpIntroCode\CSharpIntroCodeProject\bin\Debug\net6.0\CSharpIntroCodeProject.runtimeconfig.json
+C:\Users\sroy33\source\repos\CSharpIntroCode\CSharpIntroCodeProject\bin\Debug\net6.0\CSharpIntroCodeProject.dll
+C:\Users\sroy33\source\repos\CSharpIntroCode\CSharpIntroCodeProject\bin\Debug\net6.0\CSharpIntroCodeProject.pdb
+C:\Users\sroy33\source\repos\CSharpIntroCode\CSharpIntroCodeProject\obj\Debug\net6.0\CSharpIntroCodeProject.csproj.AssemblyReference.cache
+C:\Users\sroy33\source\repos\CSharpIntroCode\CSharpIntroCodeProject\obj\Debug\net6.0\CSharpIntroCodeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sroy33\source\repos\CSharpIntroCode\CSharpIntroCodeProject\obj\Debug\net6.0\CSharpIntroCodeProject.AssemblyInfoInputs.cache
+C:\Users\sroy33\source\repos\CSharpIntroCode\CSharpIntroCodeProject\obj\Debug\net6.0\CSharpIntroCodeProject.AssemblyInfo.cs
+C:\Users\sroy33\source\repos\CSharpIntroCode\CSharpIntroCodeProject\obj\Debug\net6.0\CSharpIntroCodeProject.csproj.CoreCompileInputs.cache
+C:\Users\sroy33\source\repos\CSharpIntroCode\CSharpIntroCodeProject\obj\Debug\net6.0\CSharpIntroCodeProject.dll
+C:\Users\sroy33\source\repos\CSharpIntroCode\CSharpIntroCodeProject\obj\Debug\net6.0\refint\CSharpIntroCodeProject.dll
+C:\Users\sroy33\source\repos\CSharpIntroCode\CSharpIntroCodeProject\obj\Debug\net6.0\CSharpIntroCodeProject.pdb
+C:\Users\sroy33\source\repos\CSharpIntroCode\CSharpIntroCodeProject\obj\Debug\net6.0\CSharpIntroCodeProject.genruntimeconfig.cache
+C:\Users\sroy33\source\repos\CSharpIntroCode\CSharpIntroCodeProject\obj\Debug\net6.0\ref\CSharpIntroCodeProject.dll
