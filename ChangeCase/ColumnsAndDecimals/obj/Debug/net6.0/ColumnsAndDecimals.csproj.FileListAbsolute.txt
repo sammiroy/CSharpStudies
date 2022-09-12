@@ -1,0 +1,15 @@
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\ColumnsAndDecimals\bin\Debug\net6.0\ColumnsAndDecimals.exe
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\ColumnsAndDecimals\bin\Debug\net6.0\ColumnsAndDecimals.deps.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\ColumnsAndDecimals\bin\Debug\net6.0\ColumnsAndDecimals.runtimeconfig.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\ColumnsAndDecimals\bin\Debug\net6.0\ColumnsAndDecimals.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\ColumnsAndDecimals\bin\Debug\net6.0\ColumnsAndDecimals.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\ColumnsAndDecimals\obj\Debug\net6.0\ColumnsAndDecimals.csproj.AssemblyReference.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\ColumnsAndDecimals\obj\Debug\net6.0\ColumnsAndDecimals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\ColumnsAndDecimals\obj\Debug\net6.0\ColumnsAndDecimals.AssemblyInfoInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\ColumnsAndDecimals\obj\Debug\net6.0\ColumnsAndDecimals.AssemblyInfo.cs
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\ColumnsAndDecimals\obj\Debug\net6.0\ColumnsAndDecimals.csproj.CoreCompileInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\ColumnsAndDecimals\obj\Debug\net6.0\ColumnsAndDecimals.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\ColumnsAndDecimals\obj\Debug\net6.0\refint\ColumnsAndDecimals.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\ColumnsAndDecimals\obj\Debug\net6.0\ColumnsAndDecimals.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\ColumnsAndDecimals\obj\Debug\net6.0\ColumnsAndDecimals.genruntimeconfig.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\ColumnsAndDecimals\obj\Debug\net6.0\ref\ColumnsAndDecimals.dll

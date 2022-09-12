@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeCaseProject", "ChangeCaseProject\ChangeCaseProject.csproj", "{7884D8FD-0DAA-4B89-A924-C60B289F3B97}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColumnsAndDecimals", "ColumnsAndDecimals\ColumnsAndDecimals.csproj", "{22AC879B-6340-4CC3-86FD-7F36F0B725E8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7884D8FD-0DAA-4B89-A924-C60B289F3B97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7884D8FD-0DAA-4B89-A924-C60B289F3B97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7884D8FD-0DAA-4B89-A924-C60B289F3B97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22AC879B-6340-4CC3-86FD-7F36F0B725E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22AC879B-6340-4CC3-86FD-7F36F0B725E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22AC879B-6340-4CC3-86FD-7F36F0B725E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22AC879B-6340-4CC3-86FD-7F36F0B725E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
