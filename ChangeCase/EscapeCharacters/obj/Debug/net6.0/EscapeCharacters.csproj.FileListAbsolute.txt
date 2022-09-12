@@ -1,0 +1,15 @@
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\EscapeCharacters\bin\Debug\net6.0\EscapeCharacters.exe
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\EscapeCharacters\bin\Debug\net6.0\EscapeCharacters.deps.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\EscapeCharacters\bin\Debug\net6.0\EscapeCharacters.runtimeconfig.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\EscapeCharacters\bin\Debug\net6.0\EscapeCharacters.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\EscapeCharacters\bin\Debug\net6.0\EscapeCharacters.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\EscapeCharacters\obj\Debug\net6.0\EscapeCharacters.csproj.AssemblyReference.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\EscapeCharacters\obj\Debug\net6.0\EscapeCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\EscapeCharacters\obj\Debug\net6.0\EscapeCharacters.AssemblyInfoInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\EscapeCharacters\obj\Debug\net6.0\EscapeCharacters.AssemblyInfo.cs
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\EscapeCharacters\obj\Debug\net6.0\EscapeCharacters.csproj.CoreCompileInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\EscapeCharacters\obj\Debug\net6.0\EscapeCharacters.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\EscapeCharacters\obj\Debug\net6.0\refint\EscapeCharacters.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\EscapeCharacters\obj\Debug\net6.0\EscapeCharacters.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\EscapeCharacters\obj\Debug\net6.0\EscapeCharacters.genruntimeconfig.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\ChangeCase\EscapeCharacters\obj\Debug\net6.0\ref\EscapeCharacters.dll

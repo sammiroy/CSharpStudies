@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeCaseProject", "Change
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColumnsAndDecimals", "ColumnsAndDecimals\ColumnsAndDecimals.csproj", "{22AC879B-6340-4CC3-86FD-7F36F0B725E8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscapeCharacters", "EscapeCharacters\EscapeCharacters.csproj", "{4EDB9768-0298-423B-8E33-7A174E68AF37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{22AC879B-6340-4CC3-86FD-7F36F0B725E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22AC879B-6340-4CC3-86FD-7F36F0B725E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22AC879B-6340-4CC3-86FD-7F36F0B725E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EDB9768-0298-423B-8E33-7A174E68AF37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EDB9768-0298-423B-8E33-7A174E68AF37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EDB9768-0298-423B-8E33-7A174E68AF37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EDB9768-0298-423B-8E33-7A174E68AF37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
