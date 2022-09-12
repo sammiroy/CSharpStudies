@@ -1,0 +1,15 @@
+C:\Users\sroy33\source\repos\SimpleSequenceExercise\Question4\bin\Debug\net6.0\Question4.exe
+C:\Users\sroy33\source\repos\SimpleSequenceExercise\Question4\bin\Debug\net6.0\Question4.deps.json
+C:\Users\sroy33\source\repos\SimpleSequenceExercise\Question4\bin\Debug\net6.0\Question4.runtimeconfig.json
+C:\Users\sroy33\source\repos\SimpleSequenceExercise\Question4\bin\Debug\net6.0\Question4.dll
+C:\Users\sroy33\source\repos\SimpleSequenceExercise\Question4\bin\Debug\net6.0\Question4.pdb
+C:\Users\sroy33\source\repos\SimpleSequenceExercise\Question4\obj\Debug\net6.0\Question4.csproj.AssemblyReference.cache
+C:\Users\sroy33\source\repos\SimpleSequenceExercise\Question4\obj\Debug\net6.0\Question4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sroy33\source\repos\SimpleSequenceExercise\Question4\obj\Debug\net6.0\Question4.AssemblyInfoInputs.cache
+C:\Users\sroy33\source\repos\SimpleSequenceExercise\Question4\obj\Debug\net6.0\Question4.AssemblyInfo.cs
+C:\Users\sroy33\source\repos\SimpleSequenceExercise\Question4\obj\Debug\net6.0\Question4.csproj.CoreCompileInputs.cache
+C:\Users\sroy33\source\repos\SimpleSequenceExercise\Question4\obj\Debug\net6.0\Question4.dll
+C:\Users\sroy33\source\repos\SimpleSequenceExercise\Question4\obj\Debug\net6.0\refint\Question4.dll
+C:\Users\sroy33\source\repos\SimpleSequenceExercise\Question4\obj\Debug\net6.0\Question4.pdb
+C:\Users\sroy33\source\repos\SimpleSequenceExercise\Question4\obj\Debug\net6.0\Question4.genruntimeconfig.cache
+C:\Users\sroy33\source\repos\SimpleSequenceExercise\Question4\obj\Debug\net6.0\ref\Question4.dll
