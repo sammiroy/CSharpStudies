@@ -15,7 +15,7 @@ namespace Question3
             length = double.Parse(Console.ReadLine());
 
             // Calculate area
-            area = (((3 * Math.Sqrt(3)) / 2) * (Math.Pow(length, 2)));
+            area = ((3 * Math.Sqrt(3)) / 2) * Math.Pow(length, 2);
 
             Console.WriteLine($"The area of the hexagon is {area}");
 

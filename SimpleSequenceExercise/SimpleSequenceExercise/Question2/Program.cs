@@ -18,8 +18,8 @@ namespace Question2
             length = double.Parse(Console.ReadLine());
 
             // Process area & volume
-            area = radius * radius * Math.PI;
-            volume = (area * length);
+            area = Math.Pow(radius, 2) * Math.PI;
+            volume = area * length;
 
             // Output results
             Console.WriteLine($"The area is {area}");
