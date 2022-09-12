@@ -1,0 +1,15 @@
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionTwo\bin\Debug\net6.0\QuestionTwo.exe
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionTwo\bin\Debug\net6.0\QuestionTwo.deps.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionTwo\bin\Debug\net6.0\QuestionTwo.runtimeconfig.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionTwo\bin\Debug\net6.0\QuestionTwo.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionTwo\bin\Debug\net6.0\QuestionTwo.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionTwo\obj\Debug\net6.0\QuestionTwo.csproj.AssemblyReference.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionTwo\obj\Debug\net6.0\QuestionTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionTwo\obj\Debug\net6.0\QuestionTwo.AssemblyInfoInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionTwo\obj\Debug\net6.0\QuestionTwo.AssemblyInfo.cs
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionTwo\obj\Debug\net6.0\QuestionTwo.csproj.CoreCompileInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionTwo\obj\Debug\net6.0\QuestionTwo.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionTwo\obj\Debug\net6.0\refint\QuestionTwo.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionTwo\obj\Debug\net6.0\QuestionTwo.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionTwo\obj\Debug\net6.0\QuestionTwo.genruntimeconfig.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionTwo\obj\Debug\net6.0\ref\QuestionTwo.dll
