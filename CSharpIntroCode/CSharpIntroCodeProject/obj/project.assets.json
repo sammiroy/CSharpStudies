@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sroy33\\source\\repos\\CSharpIntroCode\\CSharpIntroCodeProject\\CSharpIntroCodeProject.csproj",
+      "projectUniqueName": "C:\\Users\\sroy33\\Documents\\GitHub\\CSharpStudies\\CSharpIntroCode\\CSharpIntroCodeProject\\CSharpIntroCodeProject.csproj",
       "projectName": "CSharpIntroCodeProject",
-      "projectPath": "C:\\Users\\sroy33\\source\\repos\\CSharpIntroCode\\CSharpIntroCodeProject\\CSharpIntroCodeProject.csproj",
+      "projectPath": "C:\\Users\\sroy33\\Documents\\GitHub\\CSharpStudies\\CSharpIntroCode\\CSharpIntroCodeProject\\CSharpIntroCodeProject.csproj",
       "packagesPath": "C:\\Users\\sroy33\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sroy33\\source\\repos\\CSharpIntroCode\\CSharpIntroCodeProject\\obj\\",
+      "outputPath": "C:\\Users\\sroy33\\Documents\\GitHub\\CSharpStudies\\CSharpIntroCode\\CSharpIntroCodeProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
