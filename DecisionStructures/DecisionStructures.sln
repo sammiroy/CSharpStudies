@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionStructuresDemo02", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionStructuresDemo03", "DecisionStructuresDemo03\DecisionStructuresDemo03.csproj", "{E07011D3-7BA1-4ECE-AC8F-8BD5A1858298}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionStructuresDemo04", "DecisionStructuresDemo04\DecisionStructuresDemo04.csproj", "{EEF45ABC-880A-448B-8339-73B18F21BBC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E07011D3-7BA1-4ECE-AC8F-8BD5A1858298}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E07011D3-7BA1-4ECE-AC8F-8BD5A1858298}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E07011D3-7BA1-4ECE-AC8F-8BD5A1858298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEF45ABC-880A-448B-8339-73B18F21BBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF45ABC-880A-448B-8339-73B18F21BBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF45ABC-880A-448B-8339-73B18F21BBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF45ABC-880A-448B-8339-73B18F21BBC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
