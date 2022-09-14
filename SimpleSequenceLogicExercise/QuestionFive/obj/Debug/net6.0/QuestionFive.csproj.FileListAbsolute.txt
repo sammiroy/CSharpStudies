@@ -1,0 +1,15 @@
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionFive\bin\Debug\net6.0\QuestionFive.exe
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionFive\bin\Debug\net6.0\QuestionFive.deps.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionFive\bin\Debug\net6.0\QuestionFive.runtimeconfig.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionFive\bin\Debug\net6.0\QuestionFive.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionFive\bin\Debug\net6.0\QuestionFive.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionFive\obj\Debug\net6.0\QuestionFive.csproj.AssemblyReference.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionFive\obj\Debug\net6.0\QuestionFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionFive\obj\Debug\net6.0\QuestionFive.AssemblyInfoInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionFive\obj\Debug\net6.0\QuestionFive.AssemblyInfo.cs
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionFive\obj\Debug\net6.0\QuestionFive.csproj.CoreCompileInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionFive\obj\Debug\net6.0\QuestionFive.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionFive\obj\Debug\net6.0\refint\QuestionFive.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionFive\obj\Debug\net6.0\QuestionFive.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionFive\obj\Debug\net6.0\QuestionFive.genruntimeconfig.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionFive\obj\Debug\net6.0\ref\QuestionFive.dll

@@ -1,0 +1,15 @@
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionSeven\bin\Debug\net6.0\QuestionSeven.exe
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionSeven\bin\Debug\net6.0\QuestionSeven.deps.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionSeven\bin\Debug\net6.0\QuestionSeven.runtimeconfig.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionSeven\bin\Debug\net6.0\QuestionSeven.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionSeven\bin\Debug\net6.0\QuestionSeven.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionSeven\obj\Debug\net6.0\QuestionSeven.csproj.AssemblyReference.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionSeven\obj\Debug\net6.0\QuestionSeven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionSeven\obj\Debug\net6.0\QuestionSeven.AssemblyInfoInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionSeven\obj\Debug\net6.0\QuestionSeven.AssemblyInfo.cs
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionSeven\obj\Debug\net6.0\QuestionSeven.csproj.CoreCompileInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionSeven\obj\Debug\net6.0\QuestionSeven.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionSeven\obj\Debug\net6.0\refint\QuestionSeven.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionSeven\obj\Debug\net6.0\QuestionSeven.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionSeven\obj\Debug\net6.0\QuestionSeven.genruntimeconfig.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SimpleSequenceLogicExercise\QuestionSeven\obj\Debug\net6.0\ref\QuestionSeven.dll
