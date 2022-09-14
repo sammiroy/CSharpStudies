@@ -1,0 +1,15 @@
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\RandomStructure\bin\Debug\net6.0\RandomStructure.exe
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\RandomStructure\bin\Debug\net6.0\RandomStructure.deps.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\RandomStructure\bin\Debug\net6.0\RandomStructure.runtimeconfig.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\RandomStructure\bin\Debug\net6.0\RandomStructure.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\RandomStructure\bin\Debug\net6.0\RandomStructure.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\RandomStructure\obj\Debug\net6.0\RandomStructure.csproj.AssemblyReference.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\RandomStructure\obj\Debug\net6.0\RandomStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\RandomStructure\obj\Debug\net6.0\RandomStructure.AssemblyInfoInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\RandomStructure\obj\Debug\net6.0\RandomStructure.AssemblyInfo.cs
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\RandomStructure\obj\Debug\net6.0\RandomStructure.csproj.CoreCompileInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\RandomStructure\obj\Debug\net6.0\RandomStructure.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\RandomStructure\obj\Debug\net6.0\refint\RandomStructure.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\RandomStructure\obj\Debug\net6.0\RandomStructure.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\RandomStructure\obj\Debug\net6.0\RandomStructure.genruntimeconfig.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\RandomStructure\obj\Debug\net6.0\ref\RandomStructure.dll

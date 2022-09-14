@@ -1,0 +1,15 @@
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructuresDemo01\bin\Debug\net6.0\DecisionStructuresDemo01.exe
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructuresDemo01\bin\Debug\net6.0\DecisionStructuresDemo01.deps.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructuresDemo01\bin\Debug\net6.0\DecisionStructuresDemo01.runtimeconfig.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructuresDemo01\bin\Debug\net6.0\DecisionStructuresDemo01.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructuresDemo01\bin\Debug\net6.0\DecisionStructuresDemo01.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructuresDemo01\obj\Debug\net6.0\DecisionStructuresDemo01.csproj.AssemblyReference.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructuresDemo01\obj\Debug\net6.0\DecisionStructuresDemo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructuresDemo01\obj\Debug\net6.0\DecisionStructuresDemo01.AssemblyInfoInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructuresDemo01\obj\Debug\net6.0\DecisionStructuresDemo01.AssemblyInfo.cs
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructuresDemo01\obj\Debug\net6.0\DecisionStructuresDemo01.csproj.CoreCompileInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructuresDemo01\obj\Debug\net6.0\DecisionStructuresDemo01.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructuresDemo01\obj\Debug\net6.0\refint\DecisionStructuresDemo01.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructuresDemo01\obj\Debug\net6.0\DecisionStructuresDemo01.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructuresDemo01\obj\Debug\net6.0\DecisionStructuresDemo01.genruntimeconfig.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructuresDemo01\obj\Debug\net6.0\ref\DecisionStructuresDemo01.dll
