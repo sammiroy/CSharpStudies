@@ -1,0 +1,15 @@
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SwitchExericses\SwitchExercises2\bin\Debug\net6.0\SwitchExercises2.exe
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SwitchExericses\SwitchExercises2\bin\Debug\net6.0\SwitchExercises2.deps.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SwitchExericses\SwitchExercises2\bin\Debug\net6.0\SwitchExercises2.runtimeconfig.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SwitchExericses\SwitchExercises2\bin\Debug\net6.0\SwitchExercises2.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SwitchExericses\SwitchExercises2\bin\Debug\net6.0\SwitchExercises2.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SwitchExericses\SwitchExercises2\obj\Debug\net6.0\SwitchExercises2.csproj.AssemblyReference.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SwitchExericses\SwitchExercises2\obj\Debug\net6.0\SwitchExercises2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SwitchExericses\SwitchExercises2\obj\Debug\net6.0\SwitchExercises2.AssemblyInfoInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SwitchExericses\SwitchExercises2\obj\Debug\net6.0\SwitchExercises2.AssemblyInfo.cs
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SwitchExericses\SwitchExercises2\obj\Debug\net6.0\SwitchExercises2.csproj.CoreCompileInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SwitchExericses\SwitchExercises2\obj\Debug\net6.0\SwitchExercises2.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SwitchExericses\SwitchExercises2\obj\Debug\net6.0\refint\SwitchExercises2.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SwitchExericses\SwitchExercises2\obj\Debug\net6.0\SwitchExercises2.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SwitchExericses\SwitchExercises2\obj\Debug\net6.0\SwitchExercises2.genruntimeconfig.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\SwitchExericses\SwitchExercises2\obj\Debug\net6.0\ref\SwitchExercises2.dll
