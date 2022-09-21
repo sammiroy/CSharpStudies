@@ -1,0 +1,15 @@
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructureExercises\DecisionStructureExercise2\bin\Debug\net6.0\DecisionStructureExercise2.exe
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructureExercises\DecisionStructureExercise2\bin\Debug\net6.0\DecisionStructureExercise2.deps.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructureExercises\DecisionStructureExercise2\bin\Debug\net6.0\DecisionStructureExercise2.runtimeconfig.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructureExercises\DecisionStructureExercise2\bin\Debug\net6.0\DecisionStructureExercise2.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructureExercises\DecisionStructureExercise2\bin\Debug\net6.0\DecisionStructureExercise2.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructureExercises\DecisionStructureExercise2\obj\Debug\net6.0\DecisionStructureExercise2.csproj.AssemblyReference.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructureExercises\DecisionStructureExercise2\obj\Debug\net6.0\DecisionStructureExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructureExercises\DecisionStructureExercise2\obj\Debug\net6.0\DecisionStructureExercise2.AssemblyInfoInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructureExercises\DecisionStructureExercise2\obj\Debug\net6.0\DecisionStructureExercise2.AssemblyInfo.cs
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructureExercises\DecisionStructureExercise2\obj\Debug\net6.0\DecisionStructureExercise2.csproj.CoreCompileInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructureExercises\DecisionStructureExercise2\obj\Debug\net6.0\DecisionStructureExercise2.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructureExercises\DecisionStructureExercise2\obj\Debug\net6.0\refint\DecisionStructureExercise2.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructureExercises\DecisionStructureExercise2\obj\Debug\net6.0\DecisionStructureExercise2.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructureExercises\DecisionStructureExercise2\obj\Debug\net6.0\DecisionStructureExercise2.genruntimeconfig.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\DecisionStructureExercises\DecisionStructureExercise2\obj\Debug\net6.0\ref\DecisionStructureExercise2.dll
