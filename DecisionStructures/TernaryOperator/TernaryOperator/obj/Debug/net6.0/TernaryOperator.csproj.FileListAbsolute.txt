@@ -1,0 +1,15 @@
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\TernaryOperator\TernaryOperator\bin\Debug\net6.0\TernaryOperator.exe
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\TernaryOperator\TernaryOperator\bin\Debug\net6.0\TernaryOperator.deps.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\TernaryOperator\TernaryOperator\bin\Debug\net6.0\TernaryOperator.runtimeconfig.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\TernaryOperator\TernaryOperator\bin\Debug\net6.0\TernaryOperator.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\TernaryOperator\TernaryOperator\bin\Debug\net6.0\TernaryOperator.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\TernaryOperator\TernaryOperator\obj\Debug\net6.0\TernaryOperator.csproj.AssemblyReference.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\TernaryOperator\TernaryOperator\obj\Debug\net6.0\TernaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\TernaryOperator\TernaryOperator\obj\Debug\net6.0\TernaryOperator.AssemblyInfoInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\TernaryOperator\TernaryOperator\obj\Debug\net6.0\TernaryOperator.AssemblyInfo.cs
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\TernaryOperator\TernaryOperator\obj\Debug\net6.0\TernaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\TernaryOperator\TernaryOperator\obj\Debug\net6.0\TernaryOperator.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\TernaryOperator\TernaryOperator\obj\Debug\net6.0\refint\TernaryOperator.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\TernaryOperator\TernaryOperator\obj\Debug\net6.0\TernaryOperator.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\TernaryOperator\TernaryOperator\obj\Debug\net6.0\TernaryOperator.genruntimeconfig.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\DecisionStructures\TernaryOperator\TernaryOperator\obj\Debug\net6.0\ref\TernaryOperator.dll
