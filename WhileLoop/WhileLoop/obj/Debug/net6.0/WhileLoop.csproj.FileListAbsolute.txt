@@ -1,0 +1,15 @@
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\WhileLoop\WhileLoop\bin\Debug\net6.0\WhileLoop.exe
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\WhileLoop\WhileLoop\bin\Debug\net6.0\WhileLoop.deps.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\WhileLoop\WhileLoop\bin\Debug\net6.0\WhileLoop.runtimeconfig.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\WhileLoop\WhileLoop\bin\Debug\net6.0\WhileLoop.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\WhileLoop\WhileLoop\bin\Debug\net6.0\WhileLoop.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.csproj.AssemblyReference.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.AssemblyInfoInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.AssemblyInfo.cs
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\WhileLoop\WhileLoop\obj\Debug\net6.0\refint\WhileLoop.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\WhileLoop\WhileLoop\obj\Debug\net6.0\WhileLoop.genruntimeconfig.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\WhileLoop\WhileLoop\obj\Debug\net6.0\ref\WhileLoop.dll
