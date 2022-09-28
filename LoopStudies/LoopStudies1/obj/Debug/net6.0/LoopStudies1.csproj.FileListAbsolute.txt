@@ -1,0 +1,15 @@
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\LoopStudies1\bin\Debug\net6.0\LoopStudies1.exe
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\LoopStudies1\bin\Debug\net6.0\LoopStudies1.deps.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\LoopStudies1\bin\Debug\net6.0\LoopStudies1.runtimeconfig.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\LoopStudies1\bin\Debug\net6.0\LoopStudies1.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\LoopStudies1\bin\Debug\net6.0\LoopStudies1.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\LoopStudies1\obj\Debug\net6.0\LoopStudies1.csproj.AssemblyReference.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\LoopStudies1\obj\Debug\net6.0\LoopStudies1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\LoopStudies1\obj\Debug\net6.0\LoopStudies1.AssemblyInfoInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\LoopStudies1\obj\Debug\net6.0\LoopStudies1.AssemblyInfo.cs
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\LoopStudies1\obj\Debug\net6.0\LoopStudies1.csproj.CoreCompileInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\LoopStudies1\obj\Debug\net6.0\LoopStudies1.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\LoopStudies1\obj\Debug\net6.0\refint\LoopStudies1.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\LoopStudies1\obj\Debug\net6.0\LoopStudies1.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\LoopStudies1\obj\Debug\net6.0\LoopStudies1.genruntimeconfig.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\LoopStudies1\obj\Debug\net6.0\ref\LoopStudies1.dll

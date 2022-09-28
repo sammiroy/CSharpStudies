@@ -1,0 +1,15 @@
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\NestedLoop1\bin\Debug\net6.0\NestedLoop1.exe
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\NestedLoop1\bin\Debug\net6.0\NestedLoop1.deps.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\NestedLoop1\bin\Debug\net6.0\NestedLoop1.runtimeconfig.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\NestedLoop1\bin\Debug\net6.0\NestedLoop1.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\NestedLoop1\bin\Debug\net6.0\NestedLoop1.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\NestedLoop1\obj\Debug\net6.0\NestedLoop1.csproj.AssemblyReference.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\NestedLoop1\obj\Debug\net6.0\NestedLoop1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\NestedLoop1\obj\Debug\net6.0\NestedLoop1.AssemblyInfoInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\NestedLoop1\obj\Debug\net6.0\NestedLoop1.AssemblyInfo.cs
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\NestedLoop1\obj\Debug\net6.0\NestedLoop1.csproj.CoreCompileInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\NestedLoop1\obj\Debug\net6.0\NestedLoop1.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\NestedLoop1\obj\Debug\net6.0\refint\NestedLoop1.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\NestedLoop1\obj\Debug\net6.0\NestedLoop1.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\NestedLoop1\obj\Debug\net6.0\NestedLoop1.genruntimeconfig.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\LoopStudies\NestedLoop1\obj\Debug\net6.0\ref\NestedLoop1.dll
