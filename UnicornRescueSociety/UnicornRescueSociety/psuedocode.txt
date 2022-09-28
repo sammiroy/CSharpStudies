@@ -1,0 +1,36 @@
+﻿Enter name
+Enter unicorn name
+
+Either unlimited, monthly or one time
+	U - Same amount each month forever
+	M - Sam amount ea/month for predetermined # of months
+	O - One time donation
+
+**Pen Accomodation**
+Pen wall height is 12ft ALWAYS (walls cost $4/sqft)
+Enter width of back & side walls
+Enter gate Height
+enter gate width
+	If gate width < back wall width, replace the remainder with walls 12ft high
+
+Gate prices(enter get preference)
+	W - wood ($3/sqft)
+	S - silver ($8/sqft)
+	G - Gold ($12/sqft)
+
+Type of paint (deafult white)
+	Ask if the user would like to change paint colour
+	IF yes
+		M - mood paint (+$200)
+		A - magic paint (+$300)
+		R - reflect paint (+$150)
+	Else move on
+
+** End PEn Accomodation **
+Meal upgrades (default healthy)
+	Ask if user wants to change
+	IF yes
+		R +$1000
+		S +$500
+
+Tally individual totals & then overall total
