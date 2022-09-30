@@ -1,24 +1,24 @@
-﻿Enter name
-Enter unicorn name
+﻿Enter name (String)
+Enter unicorn name (string)
 
-Either unlimited, monthly or one time
+Either unlimited, monthly or one time (char)
 	U - Same amount each month forever
 	M - Sam amount ea/month for predetermined # of months
 	O - One time donation
 
 **Pen Accomodation**
 Pen wall height is 12ft ALWAYS (walls cost $4/sqft)
-Enter width of back & side walls
-Enter gate Height
-enter gate width
+Enter width of back & side walls (int)
+Enter gate Height (int)
+enter gate width (int)
 	If gate width < back wall width, replace the remainder with walls 12ft high
 
-Gate prices(enter get preference)
+Gate prices(enter get preference) (char)
 	W - wood ($3/sqft)
 	S - silver ($8/sqft)
 	G - Gold ($12/sqft)
 
-Type of paint (deafult white)
+Type of paint (deafult white) (char)
 	Ask if the user would like to change paint colour
 	IF yes
 		M - mood paint (+$200)
@@ -27,7 +27,7 @@ Type of paint (deafult white)
 	Else move on
 
 ** End PEn Accomodation **
-Meal upgrades (default healthy)
+Meal upgrades (default healthy) (char)
 	Ask if user wants to change
 	IF yes
 		R +$1000
