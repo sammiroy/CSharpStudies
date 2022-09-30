@@ -13,3 +13,18 @@ C:\Users\sammi\OneDrive\Documents\GitHub\CSharpStudies\UnicornRescueSociety\Unic
 C:\Users\sammi\OneDrive\Documents\GitHub\CSharpStudies\UnicornRescueSociety\UnicornRescueSociety\obj\Debug\net6.0\UnicornRescueSociety.pdb
 C:\Users\sammi\OneDrive\Documents\GitHub\CSharpStudies\UnicornRescueSociety\UnicornRescueSociety\obj\Debug\net6.0\UnicornRescueSociety.genruntimeconfig.cache
 C:\Users\sammi\OneDrive\Documents\GitHub\CSharpStudies\UnicornRescueSociety\UnicornRescueSociety\obj\Debug\net6.0\ref\UnicornRescueSociety.dll
+C:\Users\Robert Roy\Documents\GitHub\CSharpStudies\UnicornRescueSociety\UnicornRescueSociety\bin\Debug\net6.0\UnicornRescueSociety.exe
+C:\Users\Robert Roy\Documents\GitHub\CSharpStudies\UnicornRescueSociety\UnicornRescueSociety\bin\Debug\net6.0\UnicornRescueSociety.deps.json
+C:\Users\Robert Roy\Documents\GitHub\CSharpStudies\UnicornRescueSociety\UnicornRescueSociety\bin\Debug\net6.0\UnicornRescueSociety.runtimeconfig.json
+C:\Users\Robert Roy\Documents\GitHub\CSharpStudies\UnicornRescueSociety\UnicornRescueSociety\bin\Debug\net6.0\UnicornRescueSociety.dll
+C:\Users\Robert Roy\Documents\GitHub\CSharpStudies\UnicornRescueSociety\UnicornRescueSociety\bin\Debug\net6.0\UnicornRescueSociety.pdb
+C:\Users\Robert Roy\Documents\GitHub\CSharpStudies\UnicornRescueSociety\UnicornRescueSociety\obj\Debug\net6.0\UnicornRescueSociety.csproj.AssemblyReference.cache
+C:\Users\Robert Roy\Documents\GitHub\CSharpStudies\UnicornRescueSociety\UnicornRescueSociety\obj\Debug\net6.0\UnicornRescueSociety.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert Roy\Documents\GitHub\CSharpStudies\UnicornRescueSociety\UnicornRescueSociety\obj\Debug\net6.0\UnicornRescueSociety.AssemblyInfoInputs.cache
+C:\Users\Robert Roy\Documents\GitHub\CSharpStudies\UnicornRescueSociety\UnicornRescueSociety\obj\Debug\net6.0\UnicornRescueSociety.AssemblyInfo.cs
+C:\Users\Robert Roy\Documents\GitHub\CSharpStudies\UnicornRescueSociety\UnicornRescueSociety\obj\Debug\net6.0\UnicornRescueSociety.csproj.CoreCompileInputs.cache
+C:\Users\Robert Roy\Documents\GitHub\CSharpStudies\UnicornRescueSociety\UnicornRescueSociety\obj\Debug\net6.0\UnicornRescueSociety.dll
+C:\Users\Robert Roy\Documents\GitHub\CSharpStudies\UnicornRescueSociety\UnicornRescueSociety\obj\Debug\net6.0\refint\UnicornRescueSociety.dll
+C:\Users\Robert Roy\Documents\GitHub\CSharpStudies\UnicornRescueSociety\UnicornRescueSociety\obj\Debug\net6.0\UnicornRescueSociety.pdb
+C:\Users\Robert Roy\Documents\GitHub\CSharpStudies\UnicornRescueSociety\UnicornRescueSociety\obj\Debug\net6.0\UnicornRescueSociety.genruntimeconfig.cache
+C:\Users\Robert Roy\Documents\GitHub\CSharpStudies\UnicornRescueSociety\UnicornRescueSociety\obj\Debug\net6.0\ref\UnicornRescueSociety.dll
