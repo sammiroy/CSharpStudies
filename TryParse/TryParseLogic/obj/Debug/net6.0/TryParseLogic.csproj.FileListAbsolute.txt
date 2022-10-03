@@ -1,0 +1,15 @@
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseLogic\bin\Debug\net6.0\TryParseLogic.exe
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseLogic\bin\Debug\net6.0\TryParseLogic.deps.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseLogic\bin\Debug\net6.0\TryParseLogic.runtimeconfig.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseLogic\bin\Debug\net6.0\TryParseLogic.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseLogic\bin\Debug\net6.0\TryParseLogic.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseLogic\obj\Debug\net6.0\TryParseLogic.csproj.AssemblyReference.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseLogic\obj\Debug\net6.0\TryParseLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseLogic\obj\Debug\net6.0\TryParseLogic.AssemblyInfoInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseLogic\obj\Debug\net6.0\TryParseLogic.AssemblyInfo.cs
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseLogic\obj\Debug\net6.0\TryParseLogic.csproj.CoreCompileInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseLogic\obj\Debug\net6.0\TryParseLogic.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseLogic\obj\Debug\net6.0\refint\TryParseLogic.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseLogic\obj\Debug\net6.0\TryParseLogic.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseLogic\obj\Debug\net6.0\TryParseLogic.genruntimeconfig.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseLogic\obj\Debug\net6.0\ref\TryParseLogic.dll

@@ -1,0 +1,15 @@
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseValidationLoops\bin\Debug\net6.0\TryParseValidationLoops.exe
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseValidationLoops\bin\Debug\net6.0\TryParseValidationLoops.deps.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseValidationLoops\bin\Debug\net6.0\TryParseValidationLoops.runtimeconfig.json
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseValidationLoops\bin\Debug\net6.0\TryParseValidationLoops.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseValidationLoops\bin\Debug\net6.0\TryParseValidationLoops.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseValidationLoops\obj\Debug\net6.0\TryParseValidationLoops.csproj.AssemblyReference.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseValidationLoops\obj\Debug\net6.0\TryParseValidationLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseValidationLoops\obj\Debug\net6.0\TryParseValidationLoops.AssemblyInfoInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseValidationLoops\obj\Debug\net6.0\TryParseValidationLoops.AssemblyInfo.cs
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseValidationLoops\obj\Debug\net6.0\TryParseValidationLoops.csproj.CoreCompileInputs.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseValidationLoops\obj\Debug\net6.0\TryParseValidationLoops.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseValidationLoops\obj\Debug\net6.0\refint\TryParseValidationLoops.dll
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseValidationLoops\obj\Debug\net6.0\TryParseValidationLoops.pdb
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseValidationLoops\obj\Debug\net6.0\TryParseValidationLoops.genruntimeconfig.cache
+C:\Users\sroy33\Documents\GitHub\CSharpStudies\TryParse\TryParseValidationLoops\obj\Debug\net6.0\ref\TryParseValidationLoops.dll
