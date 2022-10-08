@@ -11,7 +11,7 @@
             string userInput;
             bool loop = true;
             int trackLength;
-            int playerPos, aiPos;
+            int playerPos = 0, aiPos = 0; // Positions
             int rollResult;
             int gamesWon, gamesLost, gamesTied;
             #endregion
@@ -31,6 +31,103 @@
                 Console.Write("Please enter a track length: ");
                 userInput = Console.ReadLine();
             }
+
+            // Gameplay loop
+            while (loop)
+            {
+                // Clear screen
+                Console.Clear();
+                // Announce current positions
+                
+                // Draw track
+                // Create track, draw players at their current positions
+                for (int i = 0; i < trackLength; i++)
+                {
+                    Console.Write("=");// BARRIER
+                }
+                Console.WriteLine();
+                Console.WriteLine();
+                for (int i = 0; i < trackLength; i++)
+                {
+                    // Draw player at their current position
+                    if (playerPos == i)
+                    {
+                        Console.Write("*");
+                    }
+                    else
+                    {
+                        Console.Write(" ");
+                    }
+                }
+                Console.WriteLine();
+                Console.WriteLine();
+                for (int i = 0; i < trackLength; i++)
+                {
+                    // Draw enemy at their current position
+                    if (aiPos == i)
+                    {
+                        Console.Write("*");
+                    }
+                    else
+                    {
+                        Console.Write(" ");
+                    }
+
+                }
+                Console.WriteLine();
+                Console.WriteLine();
+                for (int i = 0; i < trackLength; i++)
+                {
+                    Console.Write("=");// BARRIER
+                }
+            }
+
+
+
+
+
+            /*
+             * This is a backup of my track drawer, just in case
+            // Create track, draw players at their current positions
+            for (int i = 0; i < trackLength; i++)
+            {
+                Console.Write("=");// BARRIER
+            }
+            Console.WriteLine();
+            Console.WriteLine();
+            for (int i = 0; i < trackLength; i++)
+            {
+                // Draw player at their current position
+                if (playerPos == i)
+                {
+                    Console.Write("*");
+                }
+                else
+                {
+                    Console.Write(" ");
+                }
+            }
+            Console.WriteLine();
+            Console.WriteLine();
+            for (int i = 0; i < trackLength; i++)
+            {
+                // Draw enemy at their current position
+                if (aiPos == i)
+                {
+                    Console.Write("*");
+                } else
+                {
+                    Console.Write(" ");
+                }
+                
+            }
+            Console.WriteLine();
+            Console.WriteLine();
+            for (int i = 0; i < trackLength; i++)
+            {
+                Console.Write("=");// BARRIER
+            }
+             */
 
 
         }
