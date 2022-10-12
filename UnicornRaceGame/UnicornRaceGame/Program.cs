@@ -1,4 +1,4 @@
-﻿ namespace UnicornRaceGame
+﻿namespace UnicornRaceGame
 {
     internal class Program
     {
@@ -39,7 +39,7 @@
                 // Clear screen
                 Console.Clear();
                 // Announce current positions
-                
+
                 // Draw track
                 // Create track, draw players at their current positions
                 for (int i = 0; i < trackLength; i++)
@@ -83,7 +83,6 @@
                 }
             }
             #endregion
-
         }
     }
 }
