@@ -45,10 +45,10 @@ internal class Program
                 CreatePlayer(playerNumbers, playerNames, playerPoints, maxPlayers, ref playerCount);
                 break;
             case 'd':
-                DeletePlayer();
+                DeletePlayer(playerNumbers, playerNames, playerPoints, ref playerCount);
                 break;
             case 'l':
-                ListPlayers();
+                ListPlayers(playerNumbers, playerNames, playerPoints, ref playerCount);
                 break;
         }
     }
@@ -96,14 +96,53 @@ internal class Program
         }
     }
 
-    static void DeletePlayer()
+    /// <summary>
+    /// Create the method to DeletePlayer that will ask for a player number and delete that player from the team
+    /// If the player does not exist write to console "Player not found", otherwise delete them
+    /// If there are no players write to console "There are no players currently"
+    /// TO delete a player: 
+    /// Find the index of that player
+    /// Copy the last player in the array into the index of the deleted player
+    /// Decrement playercount
+    /// </summary>
+    static void DeletePlayer(int[] playerNumbers, string[] playerNames, int[] playerPoints, ref int playerCount)
     {
+        int inputNum = GetValidInt("Enter desired player number: ");
+        int delPlayerNumIndex;
 
+        // Search for the player number
+        delPlayerNumIndex = SearchForPlayerNumber(playerNumbers, playerCount, inputNum);
+
+        // If theres no players
+        if (playerCount == 0)
+        {
+            WriteLine("Error, no players currently.");
+        } 
+        // If the player number can be found
+        else if (delPlayerNumIndex == -1)
+        {
+            WriteLine("Error, player does not exist.");
+        } 
+        // If there is a player, Delete them, decrement playerCount
+        else
+        {
+            playerNumbers[delPlayerNumIndex] = playerNumbers[playerCount - 1];
+            playerNames[delPlayerNumIndex] = playerNames[playerCount - 1];
+            playerPoints[delPlayerNumIndex] = playerPoints[playerCount - 1];
+            playerCount--;
+            WriteLine("Player Deleted!");
+        }
     }
 
-    static void ListPlayers()
+    /// <summary>
+    /// Create the method ListPlayers that will:
+    /// Loop through the arrays and display all the PlayerNumbers, Names & points of each player and the total playerCount
+    /// Use Columns 
+    /// </summary>
+    static void ListPlayers(int[] playerNumbers, string[] playerNames, int[] playerPoints, ref int playerCount)
     {
-
+        Clear();
+        WriteLine("");
     }
 
     // METHOD to search for a player number. Returns an integer
