@@ -8,23 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\sroy33\\.nuget\\packages\\": {},
+    "C:\\Users\\sroy33.NAIT\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sroy33\\Documents\\GitHub\\CSharpStudies\\PlayerSystem\\PlayerSystem\\PlayerSystem.csproj",
+      "projectUniqueName": "C:\\Users\\sroy33.NAIT\\Documents\\GitHub\\CSharpStudies\\PlayerSystem\\PlayerSystem\\PlayerSystem.csproj",
       "projectName": "PlayerSystem",
-      "projectPath": "C:\\Users\\sroy33\\Documents\\GitHub\\CSharpStudies\\PlayerSystem\\PlayerSystem\\PlayerSystem.csproj",
-      "packagesPath": "C:\\Users\\sroy33\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sroy33\\Documents\\GitHub\\CSharpStudies\\PlayerSystem\\PlayerSystem\\obj\\",
+      "projectPath": "C:\\Users\\sroy33.NAIT\\Documents\\GitHub\\CSharpStudies\\PlayerSystem\\PlayerSystem\\PlayerSystem.csproj",
+      "packagesPath": "C:\\Users\\sroy33.NAIT\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\sroy33.NAIT\\Documents\\GitHub\\CSharpStudies\\PlayerSystem\\PlayerSystem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\sroy33\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sroy33.NAIT\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
