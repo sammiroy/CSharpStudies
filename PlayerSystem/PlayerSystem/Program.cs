@@ -20,24 +20,29 @@ internal class Program
         int[] playerPoints = new int[MAX_PLAYERS];
 
         // Init Variables
-        char menuItem;
+        char menuItem = 'A';
         int playerCount = 0; // Current number of active players, this is the logical size of the array
         // Keep looping until menuItem is 'x'
-        menuItem = GetMenuItem();
+        
 
-        // Process Menu Item
-        ProcessMenuItem(menuItem, playerNumbers, playerNames, playerPoints, MAX_PLAYERS, playerCount);
+        while(menuItem != 'x')
+        {
+            menuItem = GetMenuItem();
+            // Process Menu Item
+            ProcessMenuItem(menuItem, playerNumbers, playerNames, playerPoints, MAX_PLAYERS, ref playerCount);
+        }
+        
 
 
 
     }
 
-    static void ProcessMenuItem(char menuItem, int[] playerNumbers, string[] playerNames, int[] playerPoints, int maxPlayers, int playerCount)
+    static void ProcessMenuItem(char menuItem, int[] playerNumbers, string[] playerNames, int[] playerPoints, int maxPlayers, ref int playerCount)
     {
         switch (menuItem)
         {
             case 'c':
-                CreatePlayer(playerNumbers, playerNames, playerPoints, maxPlayers, playerCount);
+                CreatePlayer(playerNumbers, playerNames, playerPoints, maxPlayers, ref playerCount);
                 break;
             case 'd':
                 DeletePlayer();
@@ -48,33 +53,47 @@ internal class Program
         }
     }
 
-    static void CreatePlayer(int[] playerNumbers, string[] playerNames, int[] playerPoints, int maxPlayers, int playerCount)
+    static void CreatePlayer(int[] playerNumbers, string[] playerNames, int[] playerPoints, int maxPlayers, ref int playerCount)
     {
+        // Init local variables
+        int playerNumber;
+        int searchResult;
+
         // Is there room in the arrays
-        // (not rn) Does the player number already exist?
+        // Does the player number already exist?
         // Add to arrays
         if (playerCount < maxPlayers)
         {
-            // Is that player number available?
+            // Is that player number available? Decision that calls searchForPlayerNumber method
+            // Call the method to search
+            playerNumber = GetValidInt("Enter a positive number for your player's number: ");
+            // If the playerNumber is available, add the player 
+            // If not, display a message and do not add the player
 
+            searchResult = SearchForPlayerNumber(playerNumbers, playerCount, playerNumber);
 
-            // Player Number
-            playerNumbers[playerCount] = GetValidInt("Enert a positive number for your player's number: ");
+            if(searchResult != -1)
+            {
+                WriteLine("Error! Player number already exists");
+                ReadLine();
+            } else
+            {
+                // Player Number
+                playerNumbers[playerCount] = playerNumber;
 
-            // Player Name
-            playerNames[playerCount] = GetNonEmptyString("Enter your player's name: ");
+                // Player Name
+                playerNames[playerCount] = GetNonEmptyString("Enter your player's name: ");
 
-            // Player Points
-            playerPoints[playerCount] = GetValidInt("Enter a positive number for your player's points: ");
+                // Player Points
+                playerPoints[playerCount] = GetValidInt("Enter a positive number for your player's points: ");
 
-            playerCount++;
+                playerCount++;
+            }
         }
-
-
-        // Add 1 to playerCount
-        // If no room for another player write to screen "Team already full"
-
-
+        else
+        {
+            WriteLine("Team already full.");
+        }
     }
 
     static void DeletePlayer()
@@ -85,6 +104,29 @@ internal class Program
     static void ListPlayers()
     {
 
+    }
+
+    // METHOD to search for a player number. Returns an integer
+    // Pass in playerNumbers, playerCount, playerNumbertoSearch
+    // Return the index of where the player number was found
+    // If the player number is not found return -1
+
+    static int SearchForPlayerNumber(int[] playerNumbers, int playerCount, int playerNumberToSearch)
+    {
+        bool found = false;
+        int playerIndex = -1;
+        // loop through the array until the end of the logical size of the array or you find the number
+        // When/if found set found to true
+
+        for (int index = 0; index < playerCount && !found; index++)
+        {
+            if (playerNumbers[index] == playerNumberToSearch)
+            {
+                found = true;
+                playerIndex = index;
+            }
+        }
+        return playerIndex;
     }
 
     static void DisplayMenu()
