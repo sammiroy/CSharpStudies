@@ -1,0 +1,15 @@
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpStudies\simpleList\simpleList\bin\Debug\net6.0\simpleList.exe
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpStudies\simpleList\simpleList\bin\Debug\net6.0\simpleList.deps.json
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpStudies\simpleList\simpleList\bin\Debug\net6.0\simpleList.runtimeconfig.json
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpStudies\simpleList\simpleList\bin\Debug\net6.0\simpleList.dll
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpStudies\simpleList\simpleList\bin\Debug\net6.0\simpleList.pdb
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpStudies\simpleList\simpleList\obj\Debug\net6.0\simpleList.csproj.AssemblyReference.cache
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpStudies\simpleList\simpleList\obj\Debug\net6.0\simpleList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpStudies\simpleList\simpleList\obj\Debug\net6.0\simpleList.AssemblyInfoInputs.cache
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpStudies\simpleList\simpleList\obj\Debug\net6.0\simpleList.AssemblyInfo.cs
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpStudies\simpleList\simpleList\obj\Debug\net6.0\simpleList.csproj.CoreCompileInputs.cache
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpStudies\simpleList\simpleList\obj\Debug\net6.0\simpleList.dll
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpStudies\simpleList\simpleList\obj\Debug\net6.0\refint\simpleList.dll
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpStudies\simpleList\simpleList\obj\Debug\net6.0\simpleList.pdb
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpStudies\simpleList\simpleList\obj\Debug\net6.0\simpleList.genruntimeconfig.cache
+C:\Users\sroy33.NAIT\Documents\GitHub\CSharpStudies\simpleList\simpleList\obj\Debug\net6.0\ref\simpleList.dll
