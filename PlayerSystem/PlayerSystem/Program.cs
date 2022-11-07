@@ -141,8 +141,19 @@ internal class Program
     /// </summary>
     static void ListPlayers(int[] playerNumbers, string[] playerNames, int[] playerPoints, ref int playerCount)
     {
-        Clear();
-        WriteLine("");
+        if (playerCount == 0)
+        {
+            WriteLine("The team has no players!");
+        }
+        else
+        {
+            WriteLine("{0, -20}{1, -20}{2, -20}", "NUMBER", "NAME", "POINTS");
+            for (int index = 0; index < playerCount; index++)
+            {
+                WriteLine("{0, -20}{1, -20}{2, -20}", playerNumbers[index], playerNames[index], playerPoints[index]);
+            }
+            WriteLine($"Player Count: {playerCount}");
+        }
     }
 
     // METHOD to search for a player number. Returns an integer
@@ -170,7 +181,6 @@ internal class Program
 
     static void DisplayMenu()
     {
-        Clear();
         Write(
             "Please select one of the following options:" +
             "\nC - Create new player" +
