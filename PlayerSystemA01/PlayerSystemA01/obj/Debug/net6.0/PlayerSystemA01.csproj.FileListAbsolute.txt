@@ -1,0 +1,30 @@
+C:\Users\sbell\source\repos\PlayerSystemA01\PlayerSystemA01\bin\Debug\net6.0\PlayerSystemA01.exe
+C:\Users\sbell\source\repos\PlayerSystemA01\PlayerSystemA01\bin\Debug\net6.0\PlayerSystemA01.deps.json
+C:\Users\sbell\source\repos\PlayerSystemA01\PlayerSystemA01\bin\Debug\net6.0\PlayerSystemA01.runtimeconfig.json
+C:\Users\sbell\source\repos\PlayerSystemA01\PlayerSystemA01\bin\Debug\net6.0\PlayerSystemA01.dll
+C:\Users\sbell\source\repos\PlayerSystemA01\PlayerSystemA01\bin\Debug\net6.0\PlayerSystemA01.pdb
+C:\Users\sbell\source\repos\PlayerSystemA01\PlayerSystemA01\obj\Debug\net6.0\PlayerSystemA01.csproj.AssemblyReference.cache
+C:\Users\sbell\source\repos\PlayerSystemA01\PlayerSystemA01\obj\Debug\net6.0\PlayerSystemA01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbell\source\repos\PlayerSystemA01\PlayerSystemA01\obj\Debug\net6.0\PlayerSystemA01.AssemblyInfoInputs.cache
+C:\Users\sbell\source\repos\PlayerSystemA01\PlayerSystemA01\obj\Debug\net6.0\PlayerSystemA01.AssemblyInfo.cs
+C:\Users\sbell\source\repos\PlayerSystemA01\PlayerSystemA01\obj\Debug\net6.0\PlayerSystemA01.csproj.CoreCompileInputs.cache
+C:\Users\sbell\source\repos\PlayerSystemA01\PlayerSystemA01\obj\Debug\net6.0\PlayerSystemA01.dll
+C:\Users\sbell\source\repos\PlayerSystemA01\PlayerSystemA01\obj\Debug\net6.0\refint\PlayerSystemA01.dll
+C:\Users\sbell\source\repos\PlayerSystemA01\PlayerSystemA01\obj\Debug\net6.0\PlayerSystemA01.pdb
+C:\Users\sbell\source\repos\PlayerSystemA01\PlayerSystemA01\obj\Debug\net6.0\PlayerSystemA01.genruntimeconfig.cache
+C:\Users\sbell\source\repos\PlayerSystemA01\PlayerSystemA01\obj\Debug\net6.0\ref\PlayerSystemA01.dll
+C:\Users\sbell\Desktop\Fall 2022\CPSC1012\PlayerSystemComplete\PlayerSystemA01\bin\Debug\net6.0\PlayerSystemA01.exe
+C:\Users\sbell\Desktop\Fall 2022\CPSC1012\PlayerSystemComplete\PlayerSystemA01\bin\Debug\net6.0\PlayerSystemA01.deps.json
+C:\Users\sbell\Desktop\Fall 2022\CPSC1012\PlayerSystemComplete\PlayerSystemA01\bin\Debug\net6.0\PlayerSystemA01.runtimeconfig.json
+C:\Users\sbell\Desktop\Fall 2022\CPSC1012\PlayerSystemComplete\PlayerSystemA01\bin\Debug\net6.0\PlayerSystemA01.dll
+C:\Users\sbell\Desktop\Fall 2022\CPSC1012\PlayerSystemComplete\PlayerSystemA01\bin\Debug\net6.0\PlayerSystemA01.pdb
+C:\Users\sbell\Desktop\Fall 2022\CPSC1012\PlayerSystemComplete\PlayerSystemA01\obj\Debug\net6.0\PlayerSystemA01.csproj.AssemblyReference.cache
+C:\Users\sbell\Desktop\Fall 2022\CPSC1012\PlayerSystemComplete\PlayerSystemA01\obj\Debug\net6.0\PlayerSystemA01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sbell\Desktop\Fall 2022\CPSC1012\PlayerSystemComplete\PlayerSystemA01\obj\Debug\net6.0\PlayerSystemA01.AssemblyInfoInputs.cache
+C:\Users\sbell\Desktop\Fall 2022\CPSC1012\PlayerSystemComplete\PlayerSystemA01\obj\Debug\net6.0\PlayerSystemA01.AssemblyInfo.cs
+C:\Users\sbell\Desktop\Fall 2022\CPSC1012\PlayerSystemComplete\PlayerSystemA01\obj\Debug\net6.0\PlayerSystemA01.csproj.CoreCompileInputs.cache
+C:\Users\sbell\Desktop\Fall 2022\CPSC1012\PlayerSystemComplete\PlayerSystemA01\obj\Debug\net6.0\PlayerSystemA01.dll
+C:\Users\sbell\Desktop\Fall 2022\CPSC1012\PlayerSystemComplete\PlayerSystemA01\obj\Debug\net6.0\refint\PlayerSystemA01.dll
+C:\Users\sbell\Desktop\Fall 2022\CPSC1012\PlayerSystemComplete\PlayerSystemA01\obj\Debug\net6.0\PlayerSystemA01.pdb
+C:\Users\sbell\Desktop\Fall 2022\CPSC1012\PlayerSystemComplete\PlayerSystemA01\obj\Debug\net6.0\PlayerSystemA01.genruntimeconfig.cache
+C:\Users\sbell\Desktop\Fall 2022\CPSC1012\PlayerSystemComplete\PlayerSystemA01\obj\Debug\net6.0\ref\PlayerSystemA01.dll
